@@ -11,7 +11,7 @@ instituições.
 O sistema empresarial consignado FHFS, proposto neste projeto, irá atender a demanda dos
 produtos existentes e a gestão administrativa de entrada e saída de toner e impressoras.</p><br>
 
-2 Declaração dos objetivos
+2. Declaração dos objetivos
 
 <b>Geral</b><br>
 Manter o cadastro e controle de toner das instituições geridas/filiadas a Fundação Hospitalar de Feira de Santana.<br>
