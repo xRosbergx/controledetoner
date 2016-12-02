@@ -21,7 +21,7 @@ produtos existentes e a gestão administrativa de entrada e saída de toner e im
 
 1.2 Declaração dos objetivos
 
-<b>Geral<b/>
+<b>Geral</b>
 
 Manter o cadastro e controle de toner das instituições geridas/filiadas a Fundação
 
