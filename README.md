@@ -11,7 +11,7 @@
     toner consignados, além de oferecer recarga de toner, ou seja, a FHFS presta suporte a essas
     instituições.
     O sistema empresarial consignado FHFS, proposto neste projeto, irá atender a demanda dos
-    produtos existentes e a gestão administrativa de entrada e saída de toner e impressoras.</p><br>
+    produtos existentes e a gestão administrativa de entrada e saída de toner e impressoras.</p>
 
 2. Declaração dos objetivos
 
