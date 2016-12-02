@@ -1,7 +1,6 @@
 # controledetoner
 
-<html>
-  <body>
+
 
     1. Tema Geral
 
@@ -26,8 +25,6 @@
       <li>Gerar relatório de movimentação.</li>
     </ul>
 
-</body>
-</html>
 
 
 
