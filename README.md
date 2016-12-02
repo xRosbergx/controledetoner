@@ -1,5 +1,5 @@
 # controledetoner
-<!DOCTYPE html>
+
 <html>
   <body>
 
