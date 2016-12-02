@@ -19,11 +19,12 @@ Manter o cadastro e controle de toner das instituições geridas/filiadas a Fund
 <ul>
   <li>Manter o registro de toner novos, consignados ou recarregados.</li>
   <li>Manter o registro do funcionário.</li>
+  <li>Permitir o controle de movimentação de entradas e saídas de toners.<li/>
+  <li>Gerar relatório de movimentação.<li/>
 </ul>
-<ul>
-<li>Permitir o controle de movimentação de entradas e saídas de toners.<li/>
-<li>Gerar relatório de movimentação.<li/>
-</ul>
+
+
+
 
 
 
