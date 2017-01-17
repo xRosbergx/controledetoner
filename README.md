@@ -6,7 +6,7 @@
 
     <p align="Justify">A Fundação Hospitalar de Feira de Santana (FHFS) mantém administrativamente
     as instituições: Hospital da Mulher, CMDI e CMPC. A FHFS possui contratos para suporte
-    as impressões realizadas nas suas instituições, portanto ela fornece impressora e toner
+    das impressões realizadas nas suas instituições, portanto ela fornece impressora e toner
     consignados, além de oferecer recarga de toner, ou seja, a FHFS presta suporte a essas
     instituições.
     O sistema empresarial consignado FHFS, proposto neste projeto, irá atender a demanda dos
