@@ -4,11 +4,10 @@
 
 1. Tema Geral
 
-    <p align="Justify">Com a problemática apresentada pelo discente Jairo Rego, da disciplina Linguagem e Técnica
-    de Programação, temos a Fundação Hospitalar de Feira de Santana (FHFS) que mantém e
-    administra as instituições: Hospital da Mulher, CMDI e CMPC. A FHFS possui contratos para
-    suporte as impressões realizadas nas suas instituições, portanto ela fornece impressora e
-    toner consignados, além de oferecer recarga de toner, ou seja, a FHFS presta suporte a essas
+    <p align="Justify">A Fundação Hospitalar de Feira de Santana (FHFS) mantém administrativamente
+    as instituições: Hospital da Mulher, CMDI e CMPC. A FHFS possui contratos para suporte
+    as impressões realizadas nas suas instituições, portanto ela fornece impressora e toner
+    consignados, além de oferecer recarga de toner, ou seja, a FHFS presta suporte a essas
     instituições.
     O sistema empresarial consignado FHFS, proposto neste projeto, irá atender a demanda dos
     produtos existentes e a gestão administrativa de entrada e saída de toner e impressoras.</p>
